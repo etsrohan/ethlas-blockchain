@@ -1,0 +1,9 @@
+{
+    "name": "Fire and Ice Dragons",
+    "description": "This is the FOURTH NFT made for the Testorino Collection",
+    "image": "ipfs://QmPefdYNRS9nQqN3scrd3K9GmXpLn6Y6Z93yRuMcgo9xiQ/FireandIceDragons.jpg",
+    "properties": {
+        "Rarity": "Ultra Rare",
+        "Type": "AI Generated"
+    }
+}

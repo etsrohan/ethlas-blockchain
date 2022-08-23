@@ -1,0 +1,9 @@
+{
+    "name": "Dragons Attacking",
+    "description": "This is the SECOND NFT made for the Testorino Collection",
+    "image": "ipfs://QmPefdYNRS9nQqN3scrd3K9GmXpLn6Y6Z93yRuMcgo9xiQ/DragonsAttacking.jpg",
+    "properties": {
+        "Rarity": "Ultra Rare",
+        "Type": "AI Generated"
+    }
+}

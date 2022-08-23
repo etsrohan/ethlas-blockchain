@@ -1,0 +1,9 @@
+{
+    "name": "Thunder and Lightning",
+    "description": "This is the NINTH NFT made for the Testorino Collection",
+    "image": "ipfs://QmPefdYNRS9nQqN3scrd3K9GmXpLn6Y6Z93yRuMcgo9xiQ/ThunderAndLightning.jpg",
+    "properties": {
+        "Rarity": "Ultra Rare",
+        "Type": "AI Generated"
+    }
+}

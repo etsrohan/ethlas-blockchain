@@ -6,7 +6,7 @@ const func: DeployFunction = async (hre: HardhatRuntimeEnvironment) => {
   const { deploy } = deployments;
 
   const { deployer } = await getNamedAccounts();
-  const baseURI = "ipfs://<ipfs-hash>/";
+  const baseURI = "ipfs://QmNgUcJxb1onwt7jg3xXRBU6F4gDSPsDCeUrxgQ3podYFJ/";
   const cap = 10;
   const revealUntil = 10;
 

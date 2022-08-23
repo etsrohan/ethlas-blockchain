@@ -1,0 +1,9 @@
+{
+    "name": "Dog and Cat Fighting",
+    "description": "This is the FIRST NFT made for the Testorino Collection",
+    "image": "ipfs://QmPefdYNRS9nQqN3scrd3K9GmXpLn6Y6Z93yRuMcgo9xiQ/DogAndCatFighting.jpg",
+    "properties": {
+        "Rarity": "Ultra Rare",
+        "Type": "AI Generated"
+    }
+}
