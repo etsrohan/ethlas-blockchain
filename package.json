@@ -29,5 +29,8 @@
     "typechain": "^8.0.0",
     "typescript": "^4.6.3",
     "utility-types": "^3.10.0"
+  },
+  "dependencies": {
+    "@thirdweb-dev/contracts": "^3.1.2"
   }
 }

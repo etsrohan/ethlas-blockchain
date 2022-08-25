@@ -8,7 +8,7 @@ const func: DeployFunction = async (hre: HardhatRuntimeEnvironment) => {
 
   const { deployer } = await getNamedAccounts();
   const nftAddress = (await ethers.getContract("TestorinoNFT")).address;
-  const price = ethers.utils.parseEther("0.1");
+  const price = ethers.utils.parseEther("0.01");
   const placeholderURI = "";
 
   console.log({ deployer });
